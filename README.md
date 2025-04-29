@@ -21,7 +21,8 @@ Esse projeto foi uma excelente oportunidade para consolidar meus conhecimentos e
 
 ## Tecnologias usadas:
 
-React
+  - React
+    
   - Vite (para otimização do processo de build)
 
   - TypeScript
