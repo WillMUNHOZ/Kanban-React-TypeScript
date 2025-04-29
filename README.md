@@ -32,3 +32,16 @@ Esse projeto foi uma excelente oportunidade para consolidar meus conhecimentos e
   - Radix UI (para componentes acessíveis)
 
   - Gerenciamento de tema (claro/escuro)
+
+
+
+
+![image](https://github.com/user-attachments/assets/6fa2674e-c809-4fb9-8ddd-a3f0998c398f)
+
+
+![image](https://github.com/user-attachments/assets/62bb0144-7466-44e9-ab37-7561d590eee7)
+
+
+![image](https://github.com/user-attachments/assets/25902530-a133-4844-97ba-27e384e7200b)
+
+
