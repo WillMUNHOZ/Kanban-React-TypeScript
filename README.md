@@ -1,54 +1,47 @@
-# React + TypeScript + Vite
+# Kanban-React-TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Acabei de concluir um projetinho simples, mas muito bacana, para praticar o que aprendi no curso de React e TypeScript. Desenvolvi um Kanban básico com as funcionalidades essenciais para o gerenciamento de tarefas e, além disso, implementei a opção de tema claro e escuro para deixar a experiência mais personalizável.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades:
+  - Adicionar tarefas: Crie novas tarefas para organizar seu trabalho.
 
-## Expanding the ESLint configuration
+  - Mover entre colunas: Ao iniciar a tarefa, ela é movida para a coluna "Progresso". Quando finalizada, vai para "Concluídas".
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+  - Contagem de tarefas: A quantidade de tarefas em cada coluna é exibida automaticamente.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+  - Editar e excluir: Facilidade de editar ou excluir tarefas a qualquer momento.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+  - Tema claro e escuro: Escolha o tema que mais combina com você para uma experiência visual personalizada.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+A parte interessante é que utilizei o JSON Server para simular um banco de dados, o que facilita o desenvolvimento de projetos que requerem persistência de dados, sem precisar configurar um back-end completo.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+Esse projeto foi uma excelente oportunidade para consolidar meus conhecimentos em React, TypeScript, JSON Server e também no gerenciamento de temas dinâmicos, além de me aproximar ainda mais do mundo do desenvolvimento front-end.
+
+
+## Tecnologias usadas:
+
+  - React
+    
+  - Vite (para otimização do processo de build)
+
+  - TypeScript
+
+  - JSON Server (para simulação de banco de dados)
+
+  - Radix UI (para componentes acessíveis)
+
+  - Gerenciamento de tema (claro/escuro)
+
+
+
+
+![image](https://github.com/user-attachments/assets/6fa2674e-c809-4fb9-8ddd-a3f0998c398f)
+
+
+![image](https://github.com/user-attachments/assets/62bb0144-7466-44e9-ab37-7561d590eee7)
+
+
+![image](https://github.com/user-attachments/assets/25902530-a133-4844-97ba-27e384e7200b)
+
+
