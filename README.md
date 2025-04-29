@@ -33,15 +33,10 @@ Esse projeto foi uma excelente oportunidade para consolidar meus conhecimentos e
 
   - Gerenciamento de tema (claro/escuro)
 
+##
 
+![Captura de tela 2025-04-29 200414](https://github.com/user-attachments/assets/6a6b6a35-0526-4325-8772-58eff6b861dc)
 
+![Captura de tela 2025-04-29 200549](https://github.com/user-attachments/assets/06c03c3d-cbef-4c0e-9a7f-c561a0abf0ef)
 
-![image](https://github.com/user-attachments/assets/6fa2674e-c809-4fb9-8ddd-a3f0998c398f)
-
-
-![image](https://github.com/user-attachments/assets/62bb0144-7466-44e9-ab37-7561d590eee7)
-
-
-![image](https://github.com/user-attachments/assets/25902530-a133-4844-97ba-27e384e7200b)
-
-
+![Captura de tela 2025-04-29 200654](https://github.com/user-attachments/assets/a5717805-6fd7-449a-87e6-1ad09201a1ac)
