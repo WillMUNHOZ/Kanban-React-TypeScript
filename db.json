@@ -1,0 +1,81 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Enviar relatório",
+      "description": "Enviar o relatório mensal para o departamento financeiro",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Atualizar planilha de vendas",
+      "description": "Atualizar os dados da planilha de vendas do mês corrente",
+      "status": "doing",
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "title": "Agendar reunião com fornecedores",
+      "description": "Marcar reunião para discutir novos prazos de entrega",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "title": "Revisar contratos",
+      "description": "Revisar contratos antigos e sugerir atualizações",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": "5",
+      "title": "Enviar propostas comerciais",
+      "description": "Enviar propostas atualizadas para novos clientes",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "6",
+      "title": "Organizar documentos",
+      "description": "Organizar os documentos físicos e digitais da área",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": "7",
+      "title": "Responder e-mails pendentes",
+      "description": "Responder todos os e-mails acumulados da semana",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "8",
+      "title": "Planejar campanha de marketing",
+      "description": "Criar planejamento para a nova campanha de divulgação",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "9",
+      "title": "Atualizar cadastro de clientes",
+      "description": "Corrigir e atualizar dados dos clientes no sistema",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "10",
+      "title": "Realizar treinamento interno",
+      "description": "Organizar treinamento sobre novos procedimentos internos",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "11",
+      "title": "Gerar relatório de desempenho",
+      "description": "Preparar relatório de desempenho trimestral para diretoria",
+      "status": "done",
+      "priority": "high"
+    }
+  ]
+}
