@@ -1,6 +1,6 @@
 # Kanban-React-TypeScript
 
-Acabei de concluir um projetinho simples, mas muito bacana, para praticar o que aprendi no curso de React e TypeScript. Desenvolvi um Kanban básico com as funcionalidades essenciais para o gerenciamento de tarefas e, além disso, implementei a opção de tema claro e escuro para deixar a experiência mais personalizável.
+Projetinho simples, mas muito bacana, para praticar o que aprendi no curso de React e TypeScript. Desenvolvi um Kanban básico com as funcionalidades essenciais para o gerenciamento de tarefas e, além disso, implementei a opção de tema claro e escuro para deixar a experiência mais personalizável.
 
 
 ## Funcionalidades:
